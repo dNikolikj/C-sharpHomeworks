@@ -1,0 +1,13 @@
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework 1\Exercise 1\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache
