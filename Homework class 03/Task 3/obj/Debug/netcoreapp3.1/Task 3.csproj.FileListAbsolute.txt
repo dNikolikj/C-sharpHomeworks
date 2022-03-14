@@ -1,0 +1,14 @@
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.exe
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.deps.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.dev.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\bin\Debug\netcoreapp3.1\Task 3.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.AssemblyReference.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfoInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfo.cs
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\Homework class 03\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache
