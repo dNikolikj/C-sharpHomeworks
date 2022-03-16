@@ -1,0 +1,14 @@
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.csproj.AssemblyReference.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.AssemblyInfoInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.AssemblyInfo.cs
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.csproj.CoreCompileInputs.cache
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.exe
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.deps.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.runtimeconfig.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.runtimeconfig.dev.json
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\bin\Debug\netcoreapp3.1\FifthTask.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.dll
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.pdb
+C:\Users\Darko Nikolikj\Desktop\C-sharp homeworks\HomeworkClass04\FifthTask\obj\Debug\netcoreapp3.1\FifthTask.genruntimeconfig.cache
